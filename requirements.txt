@@ -16,6 +16,8 @@ uvicorn
 scikit-learn
 prophet
 tsfresh
+pandas 
+numpy 
 
 # Visualization
 matplotlib
